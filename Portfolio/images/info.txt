@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SpaceText-Light
+font link: https://github.com/floriankarsten/space-text
+font author: Florian Karsten
+font author site: http://floriankarsten.com/
+
+
+icon designer: Creatorid'immagine
+icon designer link: /creatoridimmagine
+        
+{"bg":"transparent","font":"#000000","icon-gradient-0":"#462AB9","icon-gradient-1":"#737048","slogan":"#141414"}
+      
